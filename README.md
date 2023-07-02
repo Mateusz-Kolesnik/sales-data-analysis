@@ -71,10 +71,13 @@ labelling were employed to ensure a professional and visually engaging presentat
 the findings. As Key Questions include two aspects, two dashboards were created:
 
 1. Sales Dashboard
+
 ![Sales Dashboard](Sales_Dashboard.PNG)
 
 2. Products Dashboard
+
 ![Products Dashboard](Products_Dashboard.PNG)
+
 
 Based on created dashboards, these are answers to Key Questions:
 
