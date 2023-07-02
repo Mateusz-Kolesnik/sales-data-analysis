@@ -70,11 +70,11 @@ applied to graphs and slicers. A consistent colour scheme, appropriate fonts, an
 labelling were employed to ensure a professional and visually engaging presentation of
 the findings. As Key Questions include two aspects, two dashboards were created:
 
-1. Sales Dashboard
+Sales Dashboard
 
 ![Sales Dashboard](Sales_Dashboard.PNG)
 
-2. Products Dashboard
+Products Dashboard
 
 ![Products Dashboard](Products_Dashboard.PNG)
 
