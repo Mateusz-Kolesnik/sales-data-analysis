@@ -1,12 +1,4 @@
 title: Sales Data Analysis
 description: In this project, I have performed an analysis of sales data and presented findings using graphs and charts. By leveraging the power of Excel, I have crafted informative charts and graphs that uncover valuable insights hidden within the sales data. These visualizations serve as a visual narrative, enabling users to quickly grasp key trends, patterns, and correlations in the sales data.
 show_downloads: true
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      permalink: /:basename/
-      target: _blank
 theme: jekyll-theme-minimal
