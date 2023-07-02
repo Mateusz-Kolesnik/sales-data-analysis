@@ -103,13 +103,16 @@ Knowing this, the manager may allocate more resources and attention to “Women 
 category. This could include expanding the product range, improving the in-store display, and
 implementing targeted marketing strategies to attract more customers specifically interested in
 women's shoes.
+
 Farida Ibrahim is a sales representative responsible for generating 51% of total gross profit. The
 manager should not only reward him to keep him motivated, but also identify factors
 contributing to his success. It may be the case that other employees need a training to catch up
 with his performance.
+
 “Freeport” has the highest number of products sold out of all four stores. It’s important to
 investigate what could be the cause of it. It can be a matter of location of the stores - the
 “Freeport” may be in the city center while the others may be on the outskirts of the city.
+
 Revenue in February accounts for 73% of total sales and 63% of total gross profit. Interesting
 thing is that number of transactions (470) was very close to those of January (451) and March
 (443). It means that the higher revenue in February results from higher quantity of products
@@ -117,5 +120,6 @@ sold, which amounted to 5,751, giving an average quantity of products per transa
 while in January, March and April this average was, respectively, 3.5, 2.8, and 2.5. This
 anomaly can be an effect of some special offer or a one-off event (for example someone buying
 a huge quantity of products in one transaction). This definitely needs to be further investigated.
+
 These insights and recommendations can guide data-driven decision-making processes to
 enhance sales strategies, improve financial performance, and drive overall business growth.
