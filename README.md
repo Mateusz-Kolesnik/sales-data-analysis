@@ -131,3 +131,6 @@ a huge quantity of products in one transaction). This definitely needs to be fur
 
 These insights and recommendations can guide data-driven decision-making processes to
 enhance sales strategies, improve financial performance, and drive overall business growth.
+
+
+<a href="https://github.com/Mateusz-Kolesnik/sales-data-analysis" target="_blank">View on GitHub</a>
