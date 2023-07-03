@@ -75,11 +75,11 @@ As Key Questions include two aspects, two dashboards were created:
 
 Sales Dashboard
 
-![Sales Dashboard](Sales_Dashboard.PNG)
+![Sales Dashboard](images/Sales_Dashboard.PNG)
 
 Products Dashboard
 
-![Products Dashboard](Products_Dashboard.PNG)
+![Products Dashboard](images/Products_Dashboard.PNG)
 
 
 Based on created dashboards, these are answers to Key Questions:
