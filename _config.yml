@@ -4,4 +4,4 @@ In this project, I utilized Excel to analyse sales data and extract valuable ins
 I created interactive dashboards to present the findings in an easy to understand way.
 These dashboards provide an overview of sales trends and product performance, enabling data-driven decision-making.
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-lanyon
