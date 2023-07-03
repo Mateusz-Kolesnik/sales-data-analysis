@@ -87,7 +87,7 @@ Based on created dashboards, these are answers to Key Questions:
 Financial aspect:
 1. An overall gross profit of the company amounts to $9,957,576, with a gross profit margin
 of 10.10%.
-2. The "Women Shoes" category generates the highest gross profit (48% of total) while
+2. The "Women Shoes" category generates the highest gross profit (53% of total) while
 "Military Boots Women" is the most profitable individual product (29% of total).
 3. Farida Ibrahim is the top contributor to gross profit, accounting for 51% of the total gross
 profit.
