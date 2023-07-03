@@ -89,9 +89,9 @@ Products Dashboard
 ![Products Dashboard](images/Products_Dashboard.PNG)
 
 
-**Based on created dashboards, these are answers to Key Questions:**
+__Based on created dashboards, these are answers to Key Questions:__
 
-**Financial aspect:**
+__Financial aspect:__
 1. An overall gross profit of the company amounts to $9,957,576, with a gross profit margin
 of 10.10%.
 ![Question1](images/Sales_Q1.PNG)
@@ -109,11 +109,11 @@ profit.
 However, it is essential to consider the gross profit margin of each product. Some products,
 like "Brogues," have a higher gross profit margin and can contribute more to overall
 profitability despite lower sales quantity.
-![Question4](images/Sales_Q4.PNG)
+![Question4](images/Sales_Q4.PNG) <br><br>
 
 
 
-**Products aspect:**
+__Products aspect:__
 1. The top three products with the highest sales quantity are "Military Boots Women",
 "Leather Hand Bag White", and "Football Boots Men".
 ![Question1](images/Products_Q1.PNG)
