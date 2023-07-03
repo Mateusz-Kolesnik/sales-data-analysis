@@ -94,23 +94,40 @@ Based on created dashboards, these are answers to Key Questions:
 Financial aspect:
 1. An overall gross profit of the company amounts to $9,957,576, with a gross profit margin
 of 10.10%.
+![Question1](images/Sales_Q1.PNG)
+
 2. The "Women Shoes" category generates the highest gross profit (53% of total) while
 "Military Boots Women" is the most profitable individual product (29% of total).
+![Question2](images/Sales_Q2_1.PNG)
+![Question2](images/Sales_Q2_2.PNG)
+
 3. Farida Ibrahim is the top contributor to gross profit, accounting for 51% of the total gross
 profit.
+![Question3](images/Sales_Q3.PNG)
+
 4. In general, there is a positive correlation between the quantity sold and gross profit.
 However, it is essential to consider the gross profit margin of each product. Some products,
 like "Brogues," have a higher gross profit margin and can contribute more to overall
 profitability despite lower sales quantity.
+![Question4](images/Sales_Q4.PNG)
 
 Products aspect:
 1. The top three products with the highest sales quantity are "Military Boots Women",
 "Leather Hand Bag White", and "Football Boots Men".
+![Question1](images/Products_Q1.PNG)
+
 2. The "Women Shoes" category contributes the most to overall sales.
+![Question2](images/Products_Q2.PNG)
+
 3. Sales data from the available months indicate that February had significantly higher sales,
 accounting for 73% of total sales.
+![Question3](images/Products_Q3_1.PNG)
+![Question3](images/Products_Q3_2.PNG)
+
 4. The quantity of products sold varies across different stores, with "Freeport" leading with
-4998 units sold.
+4,998 units sold. "Garden City" sales amounts to 1,854 units, while "Harrison" and "Holbrook" sales
+amount to, respectively, 1,105, and 1,010 units.
+![Question4](images/Products_Q4.PNG)
 
 # Conclusion:
 After analysing the data, several key insights can be made. The first is that “Women Shoes”
