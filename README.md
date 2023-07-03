@@ -16,12 +16,19 @@ about 1,522 transactions, for each transaction including information such as:
 - store
 - sales representative
 
+The dataset looks as follows:
+![Sales Dashboard](images/Data_Before.PNG)
+
 The dataset doesn’t need cleaning, however certain columns need to be added for more detailed analysis:
 - Total Sales = Quantity * Price (for a given transaction)
 - COGS = Quantity * Cost (for a given transaction)
 - Gross Profit = Total Sales – COGS (for a given transaction)
 - Month – showing month of a given transaction in numeric form
 - Month Name – showing name of the month of a given transaction
+
+Transformed dataset looks as follows:
+![Sales Dashboard](images/Data_After.PNG)
+
 
 # Key analysis questions:
 Before diving into the analysis phase of the project, it is essential to define specific questions
