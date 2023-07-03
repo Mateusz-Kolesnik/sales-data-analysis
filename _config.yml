@@ -4,4 +4,4 @@ description: |
   I created interactive dashboards to present the findings in an easy to understand way.
   These dashboards provide an overview of sales trends and product performance, enabling data-driven decision-making.
 show_downloads: true
-theme: jekyll-theme-lanyon
+theme: jekyll-theme-cayman
