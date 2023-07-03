@@ -10,11 +10,11 @@ Microsoft Excel
 # Dataset:
 The dataset was found on Kaggle and shows sales data of a shoe store. It presents information
 about 1,522 transactions, for each transaction including information such as:
-- products (name and category)
-- customers (name and gender)
+- product (name and category)
+- customer (name and gender)
 - transaction details (sales date, if order was returned, quantity sold, price, and cost)
-- stores
-- sales representatives
+- store
+- sales representative
 
 The dataset doesn’t need cleaning, however certain columns need to be added for more detailed analysis:
 - Total Sales = Quantity * Price (for a given transaction)
@@ -54,7 +54,7 @@ filters. Graphs and other visual interpretations are used to present the analyse
 # Analysis:
 The following steps were undertaken to conduct the analysis:
 1. Pivot Table Creation:
-Pivot tables were generated in “Support sheet” to summarize and aggregate the sales data.
+Pivot tables were created in “Support sheet” to summarize and aggregate the sales data.
 One pivot table was also created in “Products Dashboard”. The data was organized into
 relevant dimensions, allowing for proper analysis.
 2. Graphical Representation:
@@ -68,7 +68,9 @@ and segments.
 To enhance the visual appeal and readability of the analysis, formatting techniques were
 applied to graphs and slicers. A consistent colour scheme, appropriate fonts, and clear
 labelling were employed to ensure a professional and visually engaging presentation of
-the findings. As Key Questions include two aspects, two dashboards were created:
+the findings.
+
+As Key Questions include two aspects, two dashboards were created:
 
 
 Sales Dashboard
