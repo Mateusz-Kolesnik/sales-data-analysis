@@ -66,9 +66,9 @@ One pivot table was also created in “Products Dashboard”. The data was organ
 relevant dimensions, allowing for proper analysis.
 2. Graphical Representation:
 Graphs and charts were created from the pivot tables to visually showcase trends,
-comparisons, and distributions of important sales metrics..
+comparisons, and distributions of important sales metrics.
 3. Slicer Implementation:
-Slicers were implemented to provide interactive filtering options for the pivot tables. By
+Slicers were implemented to provide interactive filtering options for pivot tables/charts. By
 selecting specific criteria, data can be dynamically filtered to explore different dimensions
 and segments.
 4. Formatting and Presentation:
@@ -133,7 +133,7 @@ amount to, respectively, 1,105, and 1,010 units.
 
 # Conclusion:
 After analysing the data, several key insights can be made. The first is that “Women Shoes”
-category generates the highest gross profit and contributes the most to overall sales. The bestselling
+category generates the highest gross profit and contributes the most to overall sales. The best-selling
 individual product is “Military Boots Women”, both in terms of quantity and revenue.
 Knowing this, the manager may allocate more resources and attention to “Women Shoes”
 category. This could include expanding the product range, improving the in-store display, and
