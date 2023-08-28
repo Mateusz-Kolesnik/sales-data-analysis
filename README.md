@@ -149,12 +149,12 @@ with his performance.
 investigate what could be the cause of it. It can be a matter of location of the stores - the
 “Freeport” may be in the city center while the others may be on the outskirts of the city.
 
-Revenue in February accounts for 73% of total sales and 63% of total gross profit. Interesting
-thing is that number of transactions (470) was very close to those of January (451) and March
-(443). It means that the higher revenue in February results from higher quantity of products
-sold, which amounted to 5,751, giving an average quantity of products per transaction of 12.2,
-while in January, March and April this average was, respectively, 3.5, 2.8, and 2.5. This
-anomaly can be an effect of some special offer or a one-off event (for example someone buying
+Sales in February account for 73% of total revenue and gross profit in February accounts for
+63% of total gross profit. Interesting thing is that number of transactions (470) was very close
+to those of January (451) and March (443). It means that the higher revenue in February results
+from higher quantity of products sold, which amounted to 5,751, giving an average quantity of products
+per transaction of 12.2, while in January, March and April this average was, respectively, 3.5, 2.8, and 2.5. 
+This anomaly can be an effect of some special offer or a one-off event (for example someone buying
 a huge quantity of products in one transaction). This definitely needs to be further investigated.
 
 These insights and recommendations can guide data-driven decision-making processes to
