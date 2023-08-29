@@ -131,7 +131,7 @@ accounting for 73% of total sales.
 amount to, respectively, 1,105, and 1,010 units.
 ![Question4](images/Products_Q4.PNG)
 
-# Conclusion:
+# Conclusions:
 After analysing the data, several key insights can be made. The first is that “Women Shoes”
 category generates the highest gross profit and contributes the most to overall sales. The best-selling
 individual product is “Military Boots Women”, both in terms of quantity and revenue.
